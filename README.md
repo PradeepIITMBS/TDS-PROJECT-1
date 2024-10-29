@@ -19,4 +19,4 @@
 - **users.csv**: Contains details of GitHub users in Singapore with over 100 followers.
 - **repositories.csv**: Contains details of the public repositories of these users.
 - **trend.png**: Contains trend chart of top 10 languages of these users.
-- **trend.xlsx**: Contains trend table of top 10 languages of these users.
+- **trend.csv**: Contains trend table of top 10 languages of these users.
