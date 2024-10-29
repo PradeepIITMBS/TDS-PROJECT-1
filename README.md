@@ -22,3 +22,5 @@
 - **analysis.ipynb**: Contains all questions and their solution with using python libraries panda and statsmodels.
 - **trend.png**: Contains trend chart of top 10 languages of repositories of these users.
 - **trend.csv**: Contains trend table of top 10 languages of repositories of these users.
+
+![Trend Chart of top 10 language of repositories of GitHub users in Singapore with over 100 followers based on their 500 most recently pushed repositories](trend.png)
