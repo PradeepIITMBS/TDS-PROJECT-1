@@ -9,14 +9,16 @@
 
 ### Process
 
-1. Fetched GitHub users located in Singapore with over 100 followers using the GitHub API using fetch_data.py.
-2. For each user, fetched up to 500 of their most recently pushed repositories.
-3. Cleaned the data and saved it into two CSV files: `users.csv` (user details) and `repositories.csv` (repository details).
+1. Fetched GitHub users located in Singapore with over 100 followers and their 500 most recently pushed repositories using using **fetch_data.py**.
+2. Cleaned the data and saved it into two CSV files: `users.csv` (user details) and `repositories.csv` (repository details).
+3. Used Google Colab and tried to find solution of all question as mentioned in **analysis.ipynb**
+4. Created a table of top 10 language of repositories of these users and thereby, created a chart for visualization.
 
 ### Files in This Repository
 
 - **fetch_data.py**: Contain python code to extract data while tracking progress of fetched data. 
 - **users.csv**: Contains details of GitHub users in Singapore with over 100 followers.
 - **repositories.csv**: Contains details of the public repositories of these users.
-- **trend.png**: Contains trend chart of top 10 languages of these users.
-- **trend.csv**: Contains trend table of top 10 languages of these users.
+- **analysis.ipynb**: Contains all questions and their solution with using python libraries panda and statsmodels.
+- **trend.png**: Contains trend chart of top 10 languages of repositories of these users.
+- **trend.csv**: Contains trend table of top 10 languages of repositories of these users.
