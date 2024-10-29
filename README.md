@@ -9,7 +9,7 @@
 
 ### Process
 
-1. Fetched GitHub users located in Singapore with over 100 followers using the GitHub API.
+1. Fetched GitHub users located in Singapore with over 100 followers using the GitHub API using fetch_data.py.
 2. For each user, fetched up to 500 of their most recently pushed repositories.
 3. Cleaned the data and saved it into two CSV files: `users.csv` (user details) and `repositories.csv` (repository details).
 
