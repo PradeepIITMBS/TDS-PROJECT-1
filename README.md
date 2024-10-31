@@ -7,7 +7,7 @@
 - The most interesting insight was that **JavaScript** and **Python** were the most commonly used programming languages, however **TypeScript** is having high trend among these users.
 - Developers looking to gain visibility should consider creating more public repositories in most common/ trending language to increase their followers.
 
-### Process
+### Process and Result
 
 1. Generated a personal access token from github.
 2. Fetched GitHub users located in Singapore with over 100 followers and their 500 most recently pushed repositories using using **fetch_data.py**.
