@@ -5,7 +5,7 @@
 
 - I used the GitHub API to scrape users located in Singapore with over 100 followers, as well as their 500 most recently pushed repositories and carried out analysis for finding solution and interesting insight.
 - The most interesting insight was that **JavaScript** and **Python** were the most commonly used programming languages, however **TypeScript** is having high trend among these users.
-- Developers looking to gain visibility should consider creating more public repositories in most common/ trending language to increase their followers.
+- Developers looking to gain visibility should consider creating more public repositories in most common/ trending language to increase their followers/ stargazers.
 
 ### Process and Result
 
@@ -21,7 +21,7 @@
 - **users.csv**: Contains details of GitHub users in Singapore with over 100 followers.
 - **repositories.csv**: Contains details of the public repositories of these users.
 - **analysis.ipynb**: Contains all questions and their solution with using python libraries panda and statsmodels.
-- **trend.csv**: Contains trend table of top 10 languages of repositories of these users.
-- **trend.png**: Contains trend chart of top 10 languages of repositories of these users.
+- **Languages_Sorted_by_Stargazers.csv**: Contains the data of total number of repositories of these users and sum of stargazers of these repositories sorted on stargazers in descending order.
+- **trend.png**: Contains trend chart of top 15 languages of repositories of these users on the basis of stargazers.
 
 ![Trend Chart of top 10 language of repositories of GitHub users in Singapore with over 100 followers based on their 500 most recently pushed repositories](trend.png)
