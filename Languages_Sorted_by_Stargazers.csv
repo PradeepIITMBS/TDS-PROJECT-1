@@ -1,0 +1,196 @@
+language,repository_count,total_stargazers
+TypeScript,2660,376540
+Python,5905,355472
+JavaScript,7403,320119
+Rust,1175,172795
+Go,2197,162219
+HTML,1908,90925
+Java,2360,88633
+C,1372,52115
+C++,1387,50805
+MDX,36,48836
+Shell,983,41530
+Jupyter Notebook,1370,38084
+CSS,904,35741
+PHP,837,29616
+C#,809,19726
+Kotlin,330,13738
+Objective-C,389,13013
+Vue,227,10344
+Less,16,9966
+Swift,556,9825
+Assembly,55,7514
+Ruby,1320,6836
+Lua,158,6402
+PLpgSQL,10,6285
+Dart,204,5783
+SCSS,577,5563
+Cuda,28,4037
+Solidity,141,3813
+TeX,223,2511
+Makefile,124,2165
+Elixir,165,1920
+R,168,1856
+Haskell,278,1747
+Prolog,8,1648
+Inno Setup,1,1507
+Gnuplot,2,1501
+Vala,2,1484
+PostScript,5,1477
+MATLAB,60,1456
+CoffeeScript,101,1159
+OpenEdge ABL,6,1051
+OCaml,106,1040
+Svelte,57,1012
+Handlebars,21,886
+Perl,57,844
+HCL,161,694
+Puppet,10,664
+Vim Script,20,643
+Dockerfile,186,585
+VimL,67,584
+Raku,3,495
+Cairo,33,482
+PowerShell,123,449
+OpenSCAD,10,430
+Matlab,62,415
+Astro,33,402
+COBOL,3,389
+Nunjucks,10,382
+MLIR,1,372
+CMake,34,341
+Reason,17,318
+Scala,117,310
+Common Lisp,69,308
+Markdown,16,272
+Pascal,74,236
+Verilog,50,209
+Starlark,15,207
+Zig,17,195
+MQL4,13,194
+Coq,17,182
+Move,18,173
+Emacs Lisp,64,173
+Vim script,55,160
+GCC Machine Description,2,142
+TSQL,13,139
+EJS,12,116
+Elm,46,110
+Jinja,15,110
+Smarty,21,99
+MQL5,5,99
+Eagle,12,92
+Mercury,1,79
+Batchfile,19,75
+BlitzBasic,1,59
+Smali,3,58
+GLSL,2,51
+KiCad,15,46
+Arduino,34,42
+Tcl,8,36
+Crystal,9,36
+Groovy,28,31
+VHDL,7,30
+Forth,4,26
+YASnippet,2,24
+Julia,25,20
+Typst,5,20
+SaltStack,17,19
+Nix,34,19
+Cython,3,18
+FORTRAN,14,18
+JSON,1,18
+Racket,13,18
+LLVM,1,18
+AppleScript,3,18
+Visual Basic,10,17
+ApacheConf,8,16
+M4,2,15
+GDScript,7,15
+Circom,2,14
+Erlang,33,13
+Objective-C++,7,13
+Processing,8,12
+LiveScript,28,11
+Roff,18,10
+Hack,2,10
+Mustache,6,9
+Stylus,4,9
+Blade,2,8
+Brainfuck,1,8
+Fortran,3,7
+Sway,2,7
+Mathematica,5,7
+Max,2,7
+ASP,12,6
+Clojure,29,6
+Chapel,4,5
+Logos,5,5
+SuperCollider,1,5
+Lean,3,5
+XSLT,10,5
+AGS Script,2,5
+Standard ML,7,5
+MAXScript,2,4
+Scheme,18,4
+Rich Text Format,6,3
+AutoHotkey,4,3
+ActionScript,5,3
+PLSQL,3,2
+Vyper,1,2
+SRecode Template,1,2
+Pug,4,2
+QMake,1,2
+Smalltalk,1,2
+TLA,2,1
+WebAssembly,10,1
+hoon,1,1
+ABAP,1,1
+F#,7,1
+Motoko,2,1
+Groff,3,1
+Perl6,1,1
+P4,1,1
+Open Policy Agent,1,1
+Liquid,4,1
+Earthly,1,1
+Metal,1,1
+Dhall,1,0
+Dafny,1,0
+DIGITAL Command Language,3,0
+D,4,0
+Vim Snippet,1,0
+Cucumber,2,0
+CodeQL,2,0
+Ren'Py,1,0
+Clarity,1,0
+CartoCSS,1,0
+CUE,1,0
+BitBake,1,0
+X10,1,0
+Ballerina,1,0
+YAML,1,0
+Awk,1,0
+Agda,1,0
+ASP.NET,1,0
+Visual Basic .NET,1,0
+Game Maker Language,1,0
+Thrift,1,0
+Nim,5,0
+Rascal,1,0
+RAML,1,0
+QML,5,0
+PureScript,2,0
+PureBasic,2,0
+Sass,2,0
+Protocol Buffer,1,0
+Nginx,6,0
+FreeMarker,1,0
+NetLogo,2,0
+NSIS,1,0
+Jsonnet,2,0
+IDL,3,0
+HyPhy,1,0
+Gleam,2,0
+Rebol,1,0
+jq,1,0
